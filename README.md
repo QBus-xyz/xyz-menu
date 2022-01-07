@@ -1,5 +1,5 @@
 ## Description
-A different take on NUI menu. I like the simplified use of exports, the ability to use html style in the button text, and I added the ability to pass tables of data in the button actions. Continued work from BR-Menu. I tried to push a PR to his repo that was never merged, so here we are.
+A different take on NUI menu. I like the simplified use of exports, the ability to use html style in the button text, and I added the ability to pass tables of data in the button actions. This is work that I continued to do after my PR to [BR-Menu](https://github.com/BrunoMarc123/BR-Menu) was closed without merge.
 
 ![](https://i.imgur.com/aF3EktU.png)
 ## Usage
