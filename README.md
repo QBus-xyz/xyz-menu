@@ -31,4 +31,4 @@ exports['qb-menu']:SubMenu("Other", "Misc stuff", "OtherStuff" )
 The first argument is the bolded grouping name. The second value is the description of the grouping. The third value is the grouping key. Use this in your buttons to assign them to a grouping.
 
 ## Qbus.xyz Discord:
-[Discord](https://discord.gg/Gec9kBKwcB)
+[Discord](https://discord.gg/jTsrKaV6As)
